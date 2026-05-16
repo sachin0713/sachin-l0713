@@ -56,11 +56,13 @@
 - Calculates typing speed and accuracy
 - User-friendly interface
 
+-Airline Management System 
+-Hospital management System 
+
 ### 📚 Student Management System
 - CRUD operations using Java & MySQL
 - Add, update, delete student records
 
-### 🌐 Portfolio Website
 - Personal portfolio using HTML & CSS
 
 ---
